@@ -1,0 +1,4 @@
+streamlit
+fastai
+torch
+pandas
